@@ -1,4 +1,4 @@
-![logo width="300"](https://github.com/Nayan-Bera/Nayan-Bera/blob/main/Heading.gif?raw=true)
+<div align="center" ><img width="90%" src="./Heading.gif" alt="logo" ></div>
 <h1 align="center">Hi 👋, I'm Nayan Kr Bera</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right"alt="coding" width="400" src="./images/pic.gif">
