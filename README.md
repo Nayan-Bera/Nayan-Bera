@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **node js**
 
-- 👨‍💻 All of my projects are available at [https://nayankrbera.vercel.app/](https://nayankrbera.vercel.app/)
+- 👨‍💻 All of my projects are available at [My WebSite](https://nayankrbera.vercel.app/)
 
 - 💬 Ask me about **HTML CSS JS**
 
