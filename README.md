@@ -1,6 +1,6 @@
 <div align="center" ><img width="90%" src="./Heading.gif" alt="logo" ></div>
 <h1 align="center">Hi 👋, I'm Nayan Kr Bera</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right"alt="coding" width="400" src="./images/pic.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nayan-Bera&label=Profile%20views&color=0e75b6&style=flat" alt="Nayan-Bera" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://nayankrbera.vercel.app/)
 
-- 🌱 I’m currently learning **node js**
+- 🌱 I’m currently Exploring More **Technologies**
 
 - 👨‍💻 All of my projects are available at [My WebSite](https://nayankrbera.vercel.app/)
 
