@@ -7,26 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/@NayanBe68620646" target="blank"><img src="https://img.shields.io/twitter/follow/@NayanBe68620646?logo=twitter&style=for-the-badge" alt="@NayanBe68620646" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://nayankrbera.vercel.app/)
+- 🔭 I’m currently working on [My Portfolio](https://nayanbera.in/)
 
 - 🌱 I’m currently Exploring More **Technologies**
 
-- 👨‍💻 All of my projects are available at [My WebSite](https://nayankrbera.vercel.app/)
+- 👨‍💻 All of my projects are available at [My WebSite](https://nayanbera.in/)
 
 - 💬 Ask me about **HTML CSS JS**
 
-- 📫 How to reach me **nayanbera9@gmail.com**
+- 📫 How to reach me **nayanberaofficial@gmail.com**
 
-- 📄 Know about my experiences [CLICK HERE 👍](https://drive.google.com/file/d/1KTE-RbkGcfOEdxGRixsucsQznkpdG516/view?usp=drive_link)
+- 📄 Know about my experiences [CLICK HERE 👍](https://drive.google.com/file/d/1p6ruce3PAyHY6HrsB_bHlQyBibTyKhlr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@avik-mandal-the-typescripter" height="30" width="40" /></a>
-<a href="https://twitter.com/NayanBe68620646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@901avikmandal" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/nayan-kr-bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avik mandal" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nayan.bera.127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avik mandal" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_am_nayan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avik___26" height="30" width="40" /></a>
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marco_game_play" height="30" width="40" /></a> -->
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@nayan-the-typescripter" height="30" width="40" /></a>
+<a href="https://twitter.com/NayanBe68620646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@Nayan-Bera" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nayan-kr-bera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan-bera" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nayan.bera.127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayan-bera" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_am_nayan_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nayan-bera" height="30" width="40" /></a>
+<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ds_gaming" height="30" width="40" /></a> -->
 <a href="https://discord.gg/YydycHY3yy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2yzR7NWNtE" height="30" width="40" /></a>
 </p>
 
